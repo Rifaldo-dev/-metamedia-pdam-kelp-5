@@ -18,7 +18,7 @@
 - [ ] Laporan Pendapatan per Tahun
 - [ ] Laporan Pendapatan Tertinggi
 - [ ] Export Excel
-- [ ] Logout
+- [x] Logout
 
 ## Rules Commit
 
